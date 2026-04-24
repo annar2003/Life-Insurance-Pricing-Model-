@@ -59,7 +59,9 @@ Expected annual death claims increase steadily over the policy term as the insur
 Chart 4 — Premium Sensitivity Analysis
 Five interest rate scenarios plotted across issue ages 25–55, illustrating the exponential relationship between age and premium cost.
 
-Repository Structure
+Repository Structure:
+
+
 life-insurance-pricing-model/
 ├── README.md
 ├── data/
